@@ -32,3 +32,12 @@ This report is intended for the Campaign Performance Team and other stakeholders
 - **Utilize Recommendations**: Implement the suggested strategies to enhance future email marketing initiatives based on the findings.
 
 By leveraging this report, the Campaign Performance Team can refine their email marketing approach, drive higher engagement, and ultimately boost conversions for the platform.
+
+
+# Power BI Report Access
+This file provides a direct link to the interactive Power BI report that analyzes the email campaign performance for the DIY content platform.
+
+### Access the Report
+Click the link below to view the report:
+
+https://app.powerbi.com/view?r=eyJrIjoiNjVlZWZmYjktYzcxZS00ODE2LWJiOTAtNDcwYTExNmMwNzcxIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
